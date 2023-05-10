@@ -10,13 +10,13 @@ border-radius: 30px;
 
 }
 .d-words{
- background-color: whitesmoke;
+ background-color: transparent;
  width:1100px ;   
  border-top-right-radius: -30px;
 }
 .d-colors{
 
-    background-color: rgb(189, 154, 218);
+    background-color: transparent;
     width: 480px;
     border-bottom-right-radius: 50px;
     border-top-right-radius: 50px;
