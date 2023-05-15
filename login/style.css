@@ -1,20 +1,16 @@
 body{
 background-image: url(../ft.img/fafa4da1f235dc785e16b1d77d3b8119.jpg);
-justify-items: center;
-justify-content: center; 
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 .body-login{
 border-radius: 30px;
-background-image: url(hands-68918_1280.webp);
 height: 650px;
-width: 1400px;
-justify-items: center;
-justify-content:center;
-flex-wrap: wrap;
+width: 300px;
 border: none;
 margin-top: 65px;
-margin-bottom: 65px;
+margin-left: 400px;
 
 }
 #PL{
