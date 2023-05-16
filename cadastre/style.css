@@ -16,12 +16,12 @@ a:hover{
 
 }
 button{
- width: 800px;
+ width: 600px;
  height: 65px;   
  border-radius: 25px;
  background-color:rgb(118, 185, 185);
  border: none;
- margin-left: 363px;
+ margin-left: 6px;
 }
 
 input{
@@ -35,6 +35,17 @@ margin-left: 50px;
 }
 
 #in-01{
-margin-left:200px ;    
+margin-left:200px ; 
+ display: flex;
 }
+#in-02{
+  margin-left:200px ;  
+}
+label{
+
+}
+.tot{
+  margin-left:900px ;  
+  display: block;
+  }
 

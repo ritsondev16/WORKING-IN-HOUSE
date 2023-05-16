@@ -7,7 +7,7 @@ background-repeat: no-repeat;
 .body-login{
 border-radius: 30px;
 height: 650px;
-width: 300px;
+width: 700px;
 border: none;
 margin-top: 65px;
 margin-left: 400px;
@@ -58,7 +58,7 @@ border-radius: 20px;
 height: 75px;  
 width: 400px; 
 border: none; 
-margin-top: 80px;
+margin-top: 30px;
 margin-left: 25px;
 color: aliceblue;
 background-color: rgb(150, 142, 204);
@@ -73,4 +73,18 @@ padding-bottom: 30px;
 .ckekbox{
   margin-left: 30px;
   height: 10px;  
+}
+.ecc{
+ 
+ margin-left: 40px; 
+ padding-left: 55px; 
+ margin-top: 7px;
+ display: flex;
+}
+#fp{
+
+}
+#cc{
+padding-left: 30px;  
+  
 }
