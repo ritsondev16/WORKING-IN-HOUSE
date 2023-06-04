@@ -2,11 +2,13 @@ body{
 background-image: url(../ft.img/fafa4da1f235dc785e16b1d77d3b8119.jpg);
 background-repeat: no-repeat;
 background-size: cover;
+background-position: bottom;
 display: flex;
 margin-top: 70px;
 }
 #pc{
-margin-left:670px ;   
+margin-left:670px ; 
+margin-top: -50px;  
 
 }
 a:link{
@@ -35,23 +37,16 @@ margin-bottom: 30px;
 box-sizing: border-box; 
 margin-left: 50px;    
 }
-
-#in-01{
-margin-left:200px ; 
- display: flex;
-}
-#in-02{
-  margin-left:200px ;  
-}
-label{
-
-}
 .tot{
-  margin-left:75px ;  
+ 
   display: block;
   }
   #word{
-  font-size: 45px; 
-  margin-left: -770px;
+  font-size: 40px; 
+  margin-top: 50px;  
   }
+.union{
+display: flex;
+margin-left: -750px;
 
+}
