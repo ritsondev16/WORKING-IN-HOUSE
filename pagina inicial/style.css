@@ -2,6 +2,7 @@ body{
 background-image: url(../ft.img/fafa4da1f235dc785e16b1d77d3b8119.jpg);
 background-repeat: no-repeat;
 background-size: cover;
+
 }
 
 header{ 
@@ -20,7 +21,7 @@ height: 110px;
 
 }
 #name-catarina{
-margin-left: 40px;  
+margin-left: 75px;  
 color: rgb(255, 255, 255);
 padding-bottom: 25px;
 }
@@ -73,4 +74,7 @@ color: aliceblue;
 h2{
 margin-left: 15px;  
 color:rgb(124, 124, 236);
+}
+h2:hover{
+  color: whitesmoke;
 }
