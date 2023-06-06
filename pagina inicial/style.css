@@ -78,3 +78,15 @@ color:rgb(124, 124, 236);
 h2:hover{
   color: whitesmoke;
 }
+
+@media screen and(max-whidth:300px) {
+  body{
+
+  }
+  .botoes{
+justify-content: flex-start;
+  }
+  .elements-basic{
+    margin-right: 150px;
+  }
+}
