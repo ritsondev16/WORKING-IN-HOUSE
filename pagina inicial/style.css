@@ -78,3 +78,8 @@ color:rgb(124, 124, 236);
 h2:hover{
   color: whitesmoke;
 }
+footer{
+  justify-content: space-between;  
+  display: flex;
+  background-color: transparent;
+}
