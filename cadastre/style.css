@@ -54,34 +54,34 @@ margin-left: -750px;
 
  
   .union{
-    margin-left: -15px;
+    margin-left: -45px;
     display: inline-block;
     display: block;
   }
   button{
-    width:335px ;
+    width:330px ;
     height: 60px;
-    margin-left: 43.5px;
+    margin-left: 35px;
   }
 
   input{
     border-radius: 20px;
     border: none;
-    width: 320px;
+    width: 300px;
     height: 45px;
-    margin-bottom: 20px; 
+    margin-bottom: 17px; 
     box-sizing: border-box; 
     margin-left: 50px;    
     }
     #word{
-      font-size: 25px; 
+      font-size: 20px; 
       margin-top: 40px;  
       margin-right: -25px;
       display: inline-block;
       }
 
       #pc{
-        margin-left:70px ; 
+        margin-left:60px ; 
         margin-top: -40px;  
         justify-content: center;
         margin-right: -100px;
